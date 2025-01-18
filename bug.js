@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API in conjunction with a custom `View` or component that overlays the camera preview.  The issue manifests as the camera preview intermittently flickering, freezing, or failing to render correctly. This is particularly noticeable on older devices or when the overlaying component is complex or performance-intensive.
